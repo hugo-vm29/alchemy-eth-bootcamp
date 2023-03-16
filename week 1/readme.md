@@ -2,7 +2,7 @@
 
 Alchemy University Ethereum Dev Bootcamp - Week 1 project
 
-Simulated signing workflow of blockchain transactions.
+Simulated workflow for signing blockchain transactions.
 
 ## Client
 
