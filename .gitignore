@@ -2,3 +2,5 @@
 node_modules
 .DS_Store
 .env
+au-deployContract/cache/*
+au-deployContract/artifacts/*
