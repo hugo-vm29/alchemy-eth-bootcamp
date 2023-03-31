@@ -1,4 +1,4 @@
-# Week 5- Ethereum Block Explorer
+# Week 5 - Decentralized Escrow Application
 
 Alchemy University Ethereum Dev Bootcamp - Week 5 project
 
